@@ -1,4 +1,9 @@
-## Welcome to GitHub Games
+## tetris
+## welcome
+## ????
+You can play the game at: https://lwef.github.io/github-games/
+## ddd
+## wht
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
