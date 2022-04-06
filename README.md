@@ -1,7 +1,7 @@
 ## tetris
 ## welcome
 ## ????
-## dddd
+You can play the game at: https://lwef.github.io/github-games/
 ## ddd
 ## wht
 
