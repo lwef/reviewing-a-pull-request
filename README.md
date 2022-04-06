@@ -1,4 +1,4 @@
-## Welcome to awesome game of Tetris
+## tetris
 ## welcome
 ## ????
 
